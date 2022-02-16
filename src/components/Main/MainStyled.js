@@ -48,7 +48,7 @@ export const MainDetails = styled.div`
   @media screen and (min-device-width: 320px) and (max-device-width: 700px) {
     font-size: 18px;
     width: 70%;
-    min-height: 70%;
+    min-height: 70vh;
     padding-bottom: 5px;
   }
 `;
