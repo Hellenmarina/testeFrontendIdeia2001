@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# Teste Front-end - Ideia 2001
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objetivo: 
 
-## Available Scripts
+- Chegar o mais próximo possível da imagem abaixo:
 
-In the project directory, you can run:
 
-### `npm start`
+![image](https://raw.githubusercontent.com/ideia2001/teste-estagio-front-end/master/imagem.jpg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Funcionalidades: 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Ao clicar em "desconectar" o usuário é redirecionado para outra página;
+- Ao clicar em "conectar novamente" na página seguinte, é possível voltar para a página principal;
+- Ao clicar acima da imagem do card "meus eventos", é exibido um modal;
+- A página é responsiva até 676 x 530 e para iphone XR.
 
-### `npm test`
+### [Acesse o resultado aqui](https://massive-trousers.surge.sh/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://user-images.githubusercontent.com/86899002/154325970-bf290eea-82c2-48ac-9167-9c55a52da47c.png)
+![image](https://user-images.githubusercontent.com/86899002/154326175-508f2ae2-8991-445c-a153-c054eced645f.png)
+![image](https://user-images.githubusercontent.com/86899002/154326220-89e4f94c-c44a-439a-9a93-24282a04ca2c.png)
