@@ -17,6 +17,6 @@
 ### [Acesse o resultado aqui](https://massive-trousers.surge.sh/)
 
 ![image](https://user-images.githubusercontent.com/86899002/154325970-bf290eea-82c2-48ac-9167-9c55a52da47c.png)
-![image](https://user-images.githubusercontent.com/86899002/154326175-508f2ae2-8991-445c-a153-c054eced645f.png)
+![image](https://cdn.discordapp.com/attachments/882638191356674099/943583420875935774/Sem_titulo.png)
 ![image](https://user-images.githubusercontent.com/86899002/154326220-89e4f94c-c44a-439a-9a93-24282a04ca2c.png)
 ![image](https://cdn.discordapp.com/attachments/882638191356674099/943581966912077924/localhost_3000_iPhone_XR_1.png)
