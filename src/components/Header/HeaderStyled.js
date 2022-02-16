@@ -7,7 +7,7 @@ export const Body = styled.div`
   align-items: center;
   font-family: Segoe UI;
   @media screen and (min-device-width: 300px) and (max-device-width: 675px) {
-    height: 28vh;
+    height: 40vh;
     display: flex;
     flex-direction: column;
     margin: 10px;

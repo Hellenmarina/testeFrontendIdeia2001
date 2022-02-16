@@ -14,6 +14,7 @@ export const BackgroundTwo = styled.div`
   background: #f1f1f1;
   @media screen and (min-device-width: 300px) and (max-device-width: 675px) {
     width: 100vw;
+    min-height: 90vh;
   }
 `;
 
@@ -48,7 +49,7 @@ export const MainDetails = styled.div`
   @media screen and (min-device-width: 320px) and (max-device-width: 700px) {
     font-size: 18px;
     width: 70%;
-    min-height: 70vh;
+    min-height: 95vh;
     padding-bottom: 5px;
   }
 `;
