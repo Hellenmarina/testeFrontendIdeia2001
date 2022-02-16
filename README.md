@@ -14,7 +14,7 @@
 - Ao clicar acima da imagem do card "meus eventos", é exibido um modal;
 - A página é responsiva até 676 x 530 e para iphone XR.
 
-### [Acesse o resultado aqui](https://nappy-machine.surge.sh/)
+### [Acesse o resultado aqui](https://massive-trousers.surge.sh/)
 
 ![image](https://user-images.githubusercontent.com/86899002/154325970-bf290eea-82c2-48ac-9167-9c55a52da47c.png)
 ![image](https://user-images.githubusercontent.com/86899002/154326175-508f2ae2-8991-445c-a153-c054eced645f.png)
